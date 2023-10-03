@@ -29,7 +29,7 @@ This project is a clone of the Razorpay website's frontend, designed and built f
 
 # Usage
 
-- Open the RazorpayClone in your web browser from the link -()
+- Open the RazorpayClone in your web browser from the link -( https://anantagg.github.io/RazorpayClone-A-Frontend-Replica/ )
 - You can use this project as a reference for building responsive web interfaces with Tailwind CSS. Feel free to customize and modify it to suit your needs.
 
 # Contributing
